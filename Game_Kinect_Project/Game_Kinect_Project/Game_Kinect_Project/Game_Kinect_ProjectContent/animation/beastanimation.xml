@@ -1,0 +1,39 @@
+﻿<animation>
+  <name>AnimationSet0</name>
+  <tickspersecond>1.0</tickspersecond>
+  <animationsubset>
+    <name>walk</name>
+    <startframe>1</startframe>
+    <endframe>24</endframe>
+  </animationsubset>
+  <animationsubset>
+    <name>run</name>
+    <startframe>26</startframe>
+    <endframe>69</endframe>
+  </animationsubset>
+<animationsubset>
+    <name>idle0</name>
+    <startframe>26</startframe>
+    <endframe>69</endframe>
+  </animationsubset>
+<animationsubset>
+    <name>crouchDown</name>
+    <startframe>1</startframe>
+    <endframe>25</endframe>
+  </animationsubset>
+<animationsubset>
+    <name>stayCrouched</name>
+    <startframe>1</startframe>
+    <endframe>25</endframe>
+  </animationsubset>
+<animationsubset>
+    <name>nodHead</name>
+    <startframe>1</startframe>
+    <endframe>25</endframe>
+  </animationsubset>
+<animationsubset>
+    <name>bite</name>
+    <startframe>197</startframe>
+    <endframe>209</endframe>
+  </animationsubset>
+</animation>

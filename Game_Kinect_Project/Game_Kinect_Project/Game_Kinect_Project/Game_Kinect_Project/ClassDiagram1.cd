@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game_Kinect_Project.AudioManager" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAgAAAACCICACQQEAQAAAAASAAIAAAIAAgACgA=</HashCode>
+      <FileName>AudioManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.BloomComponent" Collapsed="true">
+    <Position X="34.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIEUAAAAAAAgCAAAAAAgQAAACEAACAgAaAAAAAAAQ=</HashCode>
+      <FileName>BloomComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.BloomSettings" Collapsed="true">
+    <Position X="36" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIAAAACBAAAAAAQAAAAAAACAAAAAQAAAAQA=</HashCode>
+      <FileName>BloomSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.Camera" Collapsed="true">
+    <Position X="39.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARQAAQAAAAAAIEAgAwCAIKAQAAAhAAACC0QAAgBQAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.DebugDrawer" Collapsed="true">
+    <Position X="34.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAwAAAAAAAAAAAAAAAAAAIABAAAAAAAQ=</HashCode>
+      <FileName>DebugDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.FontManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAACAAAoAAEAAAABAEABAAAAgCAAAAAAAQAIQ=</HashCode>
+      <FileName>FontManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Kinect_Project.Game1" Collapsed="true">
+    <Position X="37.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCEEAAAAIAAwgACAAAAAQBBBBAAAgIABEABAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.GameManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEhAQAiIAAIAAEgEAElwNEUigCBAIooEAgILoZCQ=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Kinect_Project.GameOptions" Collapsed="true">
+    <Position X="30.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEgwgNCBEgBSAAAAAAIBgAAAARAxBAAQQAQEAEQCIA=</HashCode>
+      <FileName>GameOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.Graphic2D" Collapsed="true">
+    <Position X="36" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gN4GWsA4gQGIUlCUAa8cUkqIFElKIAUiIgAYIQCGdQQ=</HashCode>
+      <FileName>Graphic2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.BlurManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAABBCAAAAAAEAAAABAAAEAIAAAAFADQAAIAAAg=</HashCode>
+      <FileName>Graphics\BlurManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Kinect_Project.HeightMapInfo" Collapsed="true">
+    <Position X="37.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAIAApAAAAAEABAAAAAAAAAAAA=</HashCode>
+      <FileName>HeightMapInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.HeightMapInfoReader" Collapsed="true">
+    <Position X="39.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeightMapInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.InputState" Collapsed="true">
+    <Position X="32.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.InputManager" Collapsed="true">
+    <Position X="30.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UtkQACEN+yIAEIRRIBwFICgHJBMAAgMJASsBYIGSUKM=</HashCode>
+      <FileName>InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.LightList" Collapsed="true">
+    <Position X="34.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgIAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LightList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.Pause" Collapsed="true">
+    <Position X="36" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQQCEEgIAAAAAkIwAIAAAgAIAAAAABAAAAAAAAAAMAQ=</HashCode>
+      <FileName>Pause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.Screen" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQCAAAAAAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\Screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.ScreenEnd" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMQCAAAAAQABAAAAAAAAAAAEAAAgAAAAAAAAAEAgAAA=</HashCode>
+      <FileName>Screens\ScreenEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.ScreenGame" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMQCAAAAAAAAAAAAAAAAAAAEAAAgAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Screens\ScreenGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.ScreenHelp" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMQCAAAAAAAAAAAAAAQAAgAEAAAggAAAAAAAAEAgAAA=</HashCode>
+      <FileName>Screens\ScreenHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.ScreenIntro" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMYCAMCAAAAACEAEAYAAAkAMAAAgABABIAAAAEAIAQA=</HashCode>
+      <FileName>Screens\ScreenIntro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.ScreenLevel" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ANSCAAAAAAAAAAAAAAAABAAEAAEgAAEAAABAAEAAABQ=</HashCode>
+      <FileName>Screens\ScreenLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.ScreenManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEQkEAAAgCAASggAEAAAAJAUkAQgsoYgIEAEQAOAAIQ=</HashCode>
+      <FileName>Screens\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game_Kinect_Project.ScreenPlayer" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMWCAAAAAQAAAAgAAACAAAAEABCgAAAAAABACEIAIAA=</HashCode>
+      <FileName>Screens\ScreenPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.WaterI" Collapsed="true">
+    <Position X="32.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQISAAgDwAA4kGgIAAEgOJBFECAAABAIgAgACAAMAQ=</HashCode>
+      <FileName>Water\WaterI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.GameSpace.GameSpace1" Collapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AZUKEgSwAyKJVpoJkFfYJjzxoAKIFBE9CSaBgKQ3Bgg=</HashCode>
+      <FileName>GameSpace\GameSpace1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.GameSpace.GameSpace2" Collapsed="true">
+    <Position X="34.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQSAhEQAqIIhoJMNEAgwRDFBBEEBBIIIBByOaBIBCA=</HashCode>
+      <FileName>GameSpace\GameSpace2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.BowlingPin" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicObjects\BowlingPin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.BoxObject" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>PhysicObjects\BoxObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.CapsuleObject" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicObjects\CapsuleObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.CarObject" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAQAAgAAAAAAAAAAACAAAAAAAAgAEAAAAAA=</HashCode>
+      <FileName>PhysicObjects\CarObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.CharacterObject" Collapsed="true">
+    <Position X="21.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>PhysicObjects\CharacterObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.ASkinPredicate" Collapsed="true">
+    <Position X="30.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>PhysicObjects\CharacterObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.Character" Collapsed="true">
+    <Position X="30.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAgAAAAAAAAAAAABAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>PhysicObjects\CharacterObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.CollisonBox" Collapsed="true">
+    <Position X="32.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAICAAhgAAAAAAAACAQAAAACAAAQAAAAIAAA=</HashCode>
+      <FileName>PhysicObjects\CollisonBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.CylinderObject" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicObjects\CylinderObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.HeightmapObject" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicObjects\HeightmapObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.PhysicObject" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAAgAAAAICAAlgAEAAAACACASAAAACAwYQAAAAIAAA=</HashCode>
+      <FileName>PhysicObjects\PhysicObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.PlaneObject" Collapsed="true">
+    <Position X="19.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicObjects\PlaneObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.RagdollObject" Collapsed="true">
+    <Position X="23.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAgAQAAAAACACxAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>PhysicObjects\RagdollObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.SphereObject" Collapsed="true">
+    <Position X="26" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicObjects\SphereObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.TestObject" Collapsed="true">
+    <Position X="28.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicObjects\TestObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.TriangleMeshObject" Collapsed="true">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAAABAAAgA=</HashCode>
+      <FileName>PhysicObjects\TriangleMeshObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.PhysicObjects.WaterCollision" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABAAAgA=</HashCode>
+      <FileName>PhysicObjects\WaterCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.Scoreboard.Scoreboard" Collapsed="true">
+    <Position X="37.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACEEAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEAQ=</HashCode>
+      <FileName>Scoreboard\Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Kinect_Project.Sky.SkyBox" Collapsed="true">
+    <Position X="30.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAAAoAAAgAAAAAAACIAAAAgAAABEAAAAEAAAAQ=</HashCode>
+      <FileName>Sky\SKyBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Game_Kinect_Project.Light" Collapsed="true">
+    <Position X="30.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACACAAAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>LightList.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Game_Kinect_Project.FontType" Collapsed="true">
+    <Position X="32.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABABAAAA=</HashCode>
+      <FileName>FontManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game_Kinect_Project.GameMode" Collapsed="true">
+    <Position X="34.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAEAAAA=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game_Kinect_Project.BlurTechnique" Collapsed="true">
+    <Position X="30.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAgAAAACAAAAAAAgAAAQAA=</HashCode>
+      <FileName>Graphics\BlurManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game_Kinect_Project.ScreenType" Collapsed="true">
+    <Position X="36" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAgAAAAAAAAAAAAAAQAAAAEgQAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\Screen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="微軟正黑體" Size="9" />
+</ClassDiagram>
