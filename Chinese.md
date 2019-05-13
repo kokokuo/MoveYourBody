@@ -4,8 +4,8 @@
 # 簡介
 「以體感器實作之 Kinect 體感遊戲 - Move Your Body」 為大學一年的畢業專題，採用當時市面剛推出的 Kinect 裝置為體感訊號來源，所開發出的 3D 遊戲。
 
-**<p align="left">遊戲執行與 Kinect 訊號處理</p>**
-<p align="left">
+**<p align="center">遊戲執行與 Kinect 訊號處理</p>**
+<p align="center">
   <img src="../master/PlayingGameResult.png?raw=true">
 </p>
 
@@ -13,8 +13,8 @@
 
 遊戲從選單開始變皆是透過 Kinect 體感器操作：
 
-**<p align="left">選單 - 骨架偵測與姿勢校正</p>**
-<p align="left">
+**<p align="center">選單 - 骨架偵測與姿勢校正</p>**
+<p align="center">
   <img src="../master/MenuOne.png?raw=true">
 </p>
 
@@ -42,7 +42,9 @@
 - 程式語言：C#
 - Kinect 的開發套件工具：OpenNI-Win32-1.3.2.3-Dev.msi、 NITE-Win32-1.4.1.2-Dev.msi
 - 遊戲的開發套件工具：XNA 4.0 Game Framework、JibLix 物理引擎
-- IDE : Visual Studio 2010 • 作業系統 : Windows 7 • 顯示卡支援 : GT130 
+- IDE : Visual Studio 2010
+- 作業系統 : Windows 7
+- 顯示卡支援 : GT130 
 
 # 團隊成員
 - Eason Kuo : 團隊領導、專案管理、上台演講、處理 Kinect 來源影像訊號與設計開發姿勢演算法。

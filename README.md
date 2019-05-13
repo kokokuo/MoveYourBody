@@ -5,8 +5,8 @@
 # Summary
 “Motion Sensing Game with Kinect Sensor - Move Your Body” is my one-year Graduation Project of University. Adopt the Kinect sensor that just launched at that time to develop the 3D Game.
 
-**<p align="left">Playing Game and Kinect Signal View</p>**
-<p align="left">
+**<p align="center">Playing Game and Kinect Signal View</p>**
+<p align="center">
   <img src="../master/PlayingGameResult.png?raw=true">
 </p>
 
@@ -17,8 +17,8 @@ Then analyzed it using Image Processing/Computer Vision, designed and developed 
 
 The game operate through Kinect sensor and gesture detection when you enter the menu in the beginning：
 
-**<p align="left">Menu - Skelection detection and Pose calibration</p>**
-<p align="left">
+**<p align="center">Menu - Skelection detection and Pose calibration</p>**
+<p align="center">
   <img src="../master/MenuOne.png?raw=true">
 </p>
 
@@ -45,7 +45,9 @@ There are two stage in the game, one is "Run Away from Monster" and the other is
 - Programming Language: C#
 - Development Library for Game : XNA 4.0 Game Framework, JibLix Physics Engine
 - Development Library for Kinect : OpenNI-Win32-1.3.2.3-Dev.msi, NITE-Win32-1.4.1.2-Dev.msi
-- IDE : Visual Studio 2010 • OS : Windows 7 • GPU Supported : GT130 
+- IDE : Visual Studio 2010
+- OS : Windows 7
+- GPU Supported : GT130 
 
 # Team Members
 - Eason Kuo : Team Leading, Project Management, Speech, Handling Kinect Image Source and Gesture Algorithm Development.
