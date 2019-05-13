@@ -18,3 +18,10 @@ Then analyzed it using Image Processing/Computer Vision, designed and developed 
 # Team Members
 - Eason Kuo : Team Leading, Project Management, Speech, Handling Kinect Image Source and Gesture Algorithm Development.
 - Cheng-Yi Huang : Game Design, Game Development, Integrate Gesture Signal Subsystem. 
+
+
+# Slide Link
+You could read the “Motion Sensing Game with Kinect Sensor - Move Your Body” game slide from the [Slide Link](https://www.slideshare.net/YiChengKuo1/20111027-graduation-project-motion-sensing-game-with-kinect-sensor-move-your-body)
+
+# Video Link
+You could watch the “Motion Sensing Game with Kinect Sensor - Move Your Body” game demo from the [Video Link](https://youtu.be/Np3yjK-OHMM)
