@@ -1,5 +1,7 @@
 # Motion Sensing Game with Kinect Sensor - Move Your Body
 
+中文版的 Readme [請選我](../master/Chinese.md)
+
 # Summary
 “Motion Sensing Game with Kinect Sensor - Move Your Body” is my one-year Graduation Project of University. Adopt the Kinect sensor that just launched at that time to develop the 3D Game.
 
@@ -36,8 +38,6 @@ There are two stage in the game, one is "Run Away from Monster" and the other is
 <p align="center">
   <img src="../master/GameTwo.png?raw=true">
 </p>
-
-
 
 # Development Environment
 - Hardware : Kinect + AUX To USB Adapter cable
