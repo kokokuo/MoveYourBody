@@ -4,29 +4,34 @@
 # 簡介
 「以體感器實作之 Kinect 體感遊戲 - Move Your Body」 為大學一年的畢業專題，採用當時市面剛推出的 Kinect 裝置為體感訊號來源，所開發出的 3D 遊戲。
 
+**<p align="left">遊戲執行與 Kinect 訊號處理</p>**
+<p align="left">
+  <img src="../master/PlayingGameResult.png?raw=true">
+</p>
+
 在體感互動方面，由於開發時微軟的 KinectSDK 在當時尚未釋出，因此採用製作 Kinect 的來源廠商 - PrimeSight 推出的 OpeNI/NITE 作為解析 Kinect RGB 與 Depth 來源訊號，並透過影像處理和電腦視覺解析影像、設計並開發動作偵測演算法。同時設計體感遊戲內容，採用 XNA 4.0 Game Framework 開發，並使用物件導向、 Design Pattern 打造出此 3D 遊戲。
 
 遊戲從選單開始變皆是透過 Kinect 體感器操作：
 
 **<p align="left">選單 - 骨架偵測與姿勢校正</p>**
-**<p align="right">選單</p>**
 <p align="left">
   <img src="../master/MenuOne.png?raw=true">
 </p>
+
+**<p align="center">選單</p>**
 <p align="center">
   <img src="../master/MenuTwo.png?raw=true">
 </p>
 
 此外遊戲也提供了兩個關卡，分別是需要原地奔跑的逃離猛獸 和 穿越看板的姿勢模仿。
 
-**<p align="left">逃離猛獸關卡</p>**
-**<p align="right">姿勢模仿關卡</p>**
-
-<p align="left">
+**<p align="center">逃離猛獸關卡</p>**
+<p align="center">
   <img src="../master/GameOne.png?raw=true">
 </p>
-
-<p align="right">
+ 
+**<p align="center">姿勢模仿關卡</p>**
+<p align="center">
   <img src="../master/GameTwo.png?raw=true">
 </p>
 
