@@ -1,6 +1,6 @@
 # Motion Sensing Game with Kinect Sensor - Move Your Body
 
-中文版的 Readme [請選我](../master/Chinese.md)
+中文版的 Readme **[請選我](../master/Chinese.md)**
 
 # Summary
 “Motion Sensing Game with Kinect Sensor - Move Your Body” is my one-year Graduation Project of University. Adopt the Kinect sensor that just launched at that time to develop the 3D Game.
@@ -55,7 +55,7 @@ There are two stage in the game, one is "Run Away from Monster" and the other is
 
 
 # Slide Link
-You could read the “Motion Sensing Game with Kinect Sensor - Move Your Body” game slide from the [Slide Link](https://www.slideshare.net/YiChengKuo1/20111027-graduation-project-motion-sensing-game-with-kinect-sensor-move-your-body)
+You could read the “Motion Sensing Game with Kinect Sensor - Move Your Body” game slide from the **[Slide Link](https://www.slideshare.net/YiChengKuo1/20111027-graduation-project-motion-sensing-game-with-kinect-sensor-move-your-body)**
 
-# Video Link
-You could watch the “Motion Sensing Game with Kinect Sensor - Move Your Body” game demo from the [Video Link](https://youtu.be/Np3yjK-OHMM)
+# Demo Video
+You could watch the “Motion Sensing Game with Kinect Sensor - Move Your Body” game demo from the **[Video Link](https://youtu.be/Np3yjK-OHMM)**
