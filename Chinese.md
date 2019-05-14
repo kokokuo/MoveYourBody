@@ -51,7 +51,7 @@
 - Cheng-Yi Huang : 遊戲設計、遊戲開發、整合 Eason Kuo 開發的 Kinect 動作訊號子系統。
 
 # Slide 連結
-你可以觀看「以體感器實作之 Kinect 體感遊戲 - Move Your Body」 的 [Slide 簡報連結](https://www.slideshare.net/YiChengKuo1/20111027-graduation-project-motion-sensing-game-with-kinect-sensor-move-your-body)
+你可以觀看「以體感器實作之 Kinect 體感遊戲 - Move Your Body」 的 **[Slide 連結](https://www.slideshare.net/YiChengKuo1/20111027-graduation-project-motion-sensing-game-with-kinect-sensor-move-your-body)**
 
-# 影片連結
-你可以觀看遊戲「以體感器實作之 Kinect 體感遊戲 - Move Your Body」的[影片介紹連結](https://youtu.be/Np3yjK-OHMM)
+# Demo 影片
+你可以觀看遊戲「以體感器實作之 Kinect 體感遊戲 - Move Your Body」的 **[影片連結](https://youtu.be/Np3yjK-OHMM)**
